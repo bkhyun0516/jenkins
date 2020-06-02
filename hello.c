@@ -1,5 +1,6 @@
 #include<stdio.h>
-/*test
+/*
+test
 */
 int main(){
  printf("<h1>hongik!</h1>\n");
